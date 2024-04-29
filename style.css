@@ -29,16 +29,17 @@
     align-items: center;
         font-size: 14px;
         padding-bottom: 50px;
+    
     }
     .dr {
         display: flex;
         flex-direction: row;
         justify-content: center;
         align-content: center; 
-        margin-left: 35px;
+        padding-left: 35px;
         margin-top: 10px;
         line-height: 1.5;
-        
+        width: 100%;
         
     }
 
@@ -49,11 +50,12 @@
     .t{
         margin-left: 35px;
         margin-top: 20px;
+        width: 70%;
     }
 
 
     .p{
-        margin-left: 150px;
+        padding-left: 50px;
     }
 
     .bk{
